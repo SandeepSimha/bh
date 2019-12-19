@@ -1,0 +1,2 @@
+include ':app', ':lib2-release'
+rootProject.name='MyBharani'
